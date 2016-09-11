@@ -1,2 +1,1 @@
-# 13CTUD_web_design
-This is the repository for the contents of web design courses.
+#Hello everybody! My name is Tom. I am a member of the class 13CTUD. This is my github page. Let's discuss together.
