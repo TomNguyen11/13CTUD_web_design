@@ -46,46 +46,7 @@ header img {
 	padding-right: 30px;
 	padding-left: 30px;
 }
-#nav_menu ul{
-	position: relative;
-	display: block;
-	margin: 0;
-	padding: 0;
-	list-style: none;
-	font-size: 20px;
-}
-#nav_menu ul li{
-	float: left;
-}
-#nav_menu ul ul{
-	display: none;
-	position: absolute;
-	top: 100%;
-}
-#nav_menu ul li a{
-	display: block;
-	text-align: center;
-	text-decoration: none;
-	color: white;
-	width: 160px;
-	background-color: #800000;
-	padding-top: 1em;
-	padding-bottom: 1em;
-}
-/*#nav_menu ul li a:hover{
-	background-color: grey;
-}*/
-#nav_menu ul li a.current{
-	color: yellow;
-}
-#nav_menu ul li:hover > ul{
-	display: block;
-}
-#nav_menu > ul:after{
-	display: block;
-	content: "";
-	clear: both;
-}
+
 main {
 	padding-left: 0px;
 	padding-right: 0px;
