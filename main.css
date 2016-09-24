@@ -17,17 +17,7 @@ header h3{
 header img {
 	float: left;
 }
-.month{
-	font-weight: bold;
-}
-#speaker{
-	list-style: none;
-	padding: 0;
-}
-#speaker img{
-	padding-top: 20px;
-	padding-bottom: 20px;
-}
+
 footer p{
 	text-align: center;
 }
