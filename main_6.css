@@ -1,0 +1,147 @@
+/* the reset selector*/
+*{
+	margin: 0;
+	padding: 0;
+}
+html{
+	background-color: white;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    margin: 0 auto 0 auto;
+    width: 800px;
+    border: 3px solid #931420;
+    box-shadow: 7px 7px 6px grey;
+    background-color: #fffded;
+}
+h1{
+	font-size: 150%;
+	padding-top: .5em;
+	padding-bottom: .25em;
+	margin: 0;
+}
+header{
+	border-bottom: 3px solid #931420;
+	padding-top: 1.5em;
+	padding-bottom: 2em;
+	background-image: -moz-linear-gradient(30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
+    background-image: -o-linear-gradient(30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
+    background-image: -webkit-gradient(30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
+	background-image:  linear-gradient(30deg, #f6bb73 0%, white 30%, white 50%, white 80%, #f6bb73 100%);
+
+}
+header h2{
+	font-size: 170%;
+	color: #800000;
+	
+}
+header h3{
+	font-size: 130%;
+	font-style: italic;
+	
+}
+header img {
+	float: left;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+main {
+	padding-left: 0px;
+	padding-right: 0px;
+	clear: both;
+	width: 100%;
+}
+
+main h2{
+	font-size: 130%;
+	color: #800000;
+	padding-top: .5em;
+	padding-bottom: .25em;
+}
+
+
+main p{
+	padding-bottom: .5em;
+}
+main blockquote{
+	padding-right: 2em;
+	padding-left: 2em;
+	font-style: italic;
+}
+main ul{
+	padding-left: 1.25em;
+	padding-bottom: .25em;
+}
+main li{
+	padding-bottom: .35em;
+}
+section{
+	width: 525px;
+	float: right;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+article{
+	padding-top: .5em;
+	padding-bottom: .5em;
+	border-top: 2px solid #800000;
+	border-bottom: 2px solid #800000;
+}
+article img{
+	float: right;
+	margin: 10px;
+	border: 1px solid black;
+}
+article h2{
+	padding-top: 0;
+}
+article h3{
+	font-size: 105%;
+	padding-bottom: .25em;
+}
+aside{
+	width: 215px;
+	float: right;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+aside h3{
+	font-size: 105%;
+	padding-bottom: .25em;
+}
+aside img{
+	padding-bottom: 1em;
+}
+a{
+	font-weight: bold;
+}
+a:hover, a:focus{
+	font-style: italic;
+}
+a:link{
+	color: blue;
+}
+a:active{
+	color: green;
+}
+
+.shadow{
+	text-shadow: 2px 2px 3px #800000;
+}
+
+footer{
+	background-color: #931420;
+	color: white;
+	height: 10px;
+	margin-bottom: 0;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	clear: both;
+}
+footer p{
+	text-align: center;
+
+}
